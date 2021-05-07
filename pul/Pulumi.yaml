@@ -1,0 +1,3 @@
+name: pul
+runtime: nodejs
+description: A minimal DigitalOcean TypeScript Pulumi program
